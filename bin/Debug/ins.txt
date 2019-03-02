@@ -1,0 +1,60 @@
+	This program has been designed to teach people to touch-type. Touch-typing is 
+	a skill that can be learnt with practice and perseverance. Touch-typing is a 
+	method of typing which uses 8 fingers and one thumb.Touchtypists do not have 
+	to look at the keyboard to find the keys they want to type.
+
+	Homekeys
+
+	Each finger has its own resting place. These resting keys are called the 
+	homekeys. The homekeys have a blue outline in this program.
+
+	For example, in the standard U.S-English keyboard layout, The four fingers of 
+	the left hand rest on the keys 'A','S','D','F' ie. small finger on 'A', ring 
+	finger on 'S', middle finger on 'D' and index finger on 'F'. The right hand 
+	fingers rest on the keys 'J','K','L',';' ie index finger on 'J', middle finger 
+	on 'K', ring finger on 'L', and small finger on ';'. The homekeys can usually 
+	be located easily on a keyboard because the left and right index fingers' 
+	homekeys have a small bump on them.
+
+	In touch-typing, each key is always pressed by the same finger, in other 
+	words, each finger only presses certain keys. Make sure that after pressing a 
+	key, you return that finger to its resting place, that is, its homekey. The 
+	reason that this is important is because in touch-typing you learn the 
+	relative position of keys. That is, you learn where a key is based on a 
+	movement from a certain homekey.
+
+	Capital Letters.
+
+	Shift must be held down while the key you wish to capitalize is pressed. The 
+	left shift key is pressed by the left hand's small finger, and the right shift 
+	key is pressed by the right hand's small finger.
+
+	Accuracy
+
+	Accuracy is vital when learning to type. Try to make as few mistakes as 
+	possible. Try to keep your accuracy rate above 95%. If you make a mistake, you 
+	can use backspace (the big key near the top right hand side of the keyboard, 
+	before the numeric keypad) to correct it. Backspace is pressed with the small 
+	or ring finger of the right hand. Speed will come with practice and after a 
+	while you will know where the keys are.
+
+	Lessons
+
+	I recommend that you do each lesson several times before moving onto the next 
+	one. The lessons build on to one another so it is important to be comfortable 
+	with all the keys in a lesson before moving onto the next lesson.
+
+
+	Caps Lock
+
+	Before you start the lessons, make sure that caps lock is off.
+
+	Pep Talk
+
+	When learning to touchtype, it is important to persevere. At first, 
+	touchtyping will be slower than using two fingers and looking at the keyboard. 
+	However, after a while, touchtyping will be much faster and easier. If you 
+	never learn the positions of the keys, you will probably still be looking at 
+	the keyboard for a long time (unless you really type a lot).
+
+                       Let the practice begin

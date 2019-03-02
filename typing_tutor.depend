@@ -1,0 +1,228 @@
+# depslib dependency file v1.0
+1510131204 source:d:\college\project\working\typing_tutor\lessons.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510116600 d:\college\project\working\typing_tutor\ffile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1510130438 source:d:\college\project\working\typing_tutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510080306 source:d:\college\project\working\typing_tutor\selection.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510114095 source:d:\college\project\working\typing_tutor\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510124359 source:d:\college\project\working\typing_tutor\ins.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510114096 source:e:\typing_tutor\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510116602 e:\typing_tutor\ffile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1510124360 source:e:\typing_tutor\ins.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510131206 source:e:\typing_tutor\lessons.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510130440 source:e:\typing_tutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510080308 source:e:\typing_tutor\selection.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510114096 source:e:\projects\typing_tutor\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510116602 e:\projects\typing_tutor\ffile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1510124360 source:e:\projects\typing_tutor\ins.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510131206 source:e:\projects\typing_tutor\lessons.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510130440 source:e:\projects\typing_tutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510080308 source:e:\projects\typing_tutor\selection.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510114096 source:e:\studies\sem 3\projects\typing_tutor\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510116602 e:\studies\sem 3\projects\typing_tutor\ffile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1510124360 source:e:\studies\sem 3\projects\typing_tutor\ins.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510131206 source:e:\studies\sem 3\projects\typing_tutor\lessons.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510130440 source:e:\studies\sem 3\projects\typing_tutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510080308 source:e:\studies\sem 3\projects\typing_tutor\selection.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510114096 source:e:\projects\college\typing_tutor\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510116602 e:\projects\college\typing_tutor\ffile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1510124360 source:e:\projects\college\typing_tutor\ins.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510131206 source:e:\projects\college\typing_tutor\lessons.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
+1510130440 source:e:\projects\college\typing_tutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"ffile.h"
+
